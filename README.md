@@ -1,4 +1,4 @@
-- ![Alt text](header.jpg)
+- ![Alt text](header.png)
 
 ### Hi there 👋
 
